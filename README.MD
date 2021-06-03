@@ -1,8 +1,8 @@
 # Simple code to implement TNEL closed loop protocol in Python
 
-Note: Need to grab updates from Erics computer!
+Start Open Ephys and load in config file. Examples included in ```config``` folder.
 
-Make sure network events and event broadcaster are in the Open Ephys signal chain.
+If making your own signal chain make sure network events and event broadcaster are in the Open Ephys signal chain!
 
 ## To Use closed looop
 Update variables in simple_CL.py and run to start closed loop.
