@@ -20,13 +20,13 @@ OE_Address = "localhost"  # localhost or ip address of other computer
 record_dir = "D:\\test"           # Where do you want data to be recorded
 
 ## ERPS
-nERP = 3 # How many ERPS
+nERP = 50 # How many ERPS
 ERPTOmin = 3 # ERP timeout min and max
 ERPTOmax = 5
 nERPLoc = 1 # How many locations to do ERP in
 
 ## Raw 
-rawTime = 0.25 # In minutes
+rawTime = 15 # In minutes
 #############################################################
 
 
